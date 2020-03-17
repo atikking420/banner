@@ -1,17 +1,17 @@
 # banner
 Installation Step :
 
-git clone https://github.com/Bhai4You/Crazy-Banner
+git clone https://github.com/atikking420/banner
 
-cd Crazy-Banner
+cd banner
 
 chmod +x requirement.sh
 
-chmod +x c-banner.sh
+chmod +x banner.sh
 
 bash requirement.sh
 
-bash c-banner.sh
+bash banner.sh
 
 goto /sdcard/jkr/c-ban.sh and add Your ASCII art than save without any modification 
 
